@@ -1,0 +1,15 @@
+language: php
+
+php:
+  - 7.2
+env:
+  global:
+    - COMPOSER_NO_INTERACTION=1
+
+matrix:
+  allow_failures:
+install:
+  - composer install --prefer-dist --no-suggest
+
+script:
+  - ./vendor/bin/phpunit

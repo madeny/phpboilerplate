@@ -1,0 +1,19 @@
+{
+    "name": "madeny/PUCPTemplate",
+    "description": "Create simple template for local development and testing",
+
+    "autoload": {
+        "psr-4": {
+            "Sith\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "Madeny Diawara",
+            "email": "me@madeny.me"
+        }
+    ]
+}
