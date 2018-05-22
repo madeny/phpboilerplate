@@ -10,5 +10,5 @@ alias phpboil="git clone git@github.com:madeny/phptemplate.git $1"
 You can change the alias as you wish!
 and you can change 'Sith'  `"Sith\\": "src/"` under autoload on composer.json
 then run `composer install` if you wish to install phpunit: "^7.1" or just do `composer dump-autoload -o` and start coding!
----
+
 [![Build Status](https://travis-ci.org/madeny/phpboilerplate.svg?branch=master)](https://travis-ci.org/madeny/phpboilerplate)
