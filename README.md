@@ -4,7 +4,7 @@ Instead of setting up a project everytime, just fork, and clone it every time yo
 ## Create alias to quickly clone to create a new project
 Put this line of code in your `.zshrc` if you are useing one then `source ~/.zshrc`
 ```
-alias phpboil="git clone git@github.com:madeny/phptemplate.git $1"
+alias phpboil="git clone git@github.com:madeny/phpboilerplate.git $1"
 ```
 
 You can change the alias as you wish!
