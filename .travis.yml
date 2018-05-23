@@ -11,4 +11,4 @@ install:
 
 script:
   - ./vendor/bin/phpunit
-  - php index.php
+  - php public/index.php
