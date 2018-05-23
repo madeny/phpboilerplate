@@ -6,10 +6,9 @@ env:
   global:
     - COMPOSER_NO_INTERACTION=1
 
-matrix:
-  allow_failures:
 install:
   - composer install --prefer-dist --no-suggest
 
 script:
   - ./vendor/bin/phpunit
+  - php index.php

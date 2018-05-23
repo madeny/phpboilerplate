@@ -6,7 +6,7 @@ namespace Sith;
 */
 class Simple
 {
-	// @Var
+	
 	protected  $test;
 
 	
@@ -19,6 +19,7 @@ class Simple
 	}
 
 	/**
+	 * @var $test
 	* @return void
 	*/
 	public function set($test) : Void
