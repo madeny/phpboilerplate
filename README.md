@@ -12,10 +12,10 @@ and you can change 'Sith'  `"Sith\\": "src/"` under autoload on composer.json
 then run `composer install` if you wish to install phpunit: "^7.1" or just do `composer dump-autoload -o` and start coding!
 
 ---
-Travis-ci
 [![Build Status](https://travis-ci.org/madeny/phpboilerplate.svg?branch=master)](https://travis-ci.org/madeny/phpboilerplate)
+
+Travis-ci
+![Alt text](https://raw.githubusercontent.com/madeny/phpboilerplate/master/Travis-ci-build.png?sanitize=true)
 
 Circleci
 ![Alt text](https://raw.githubusercontent.com/madeny/phpboilerplate/master/circleci.png?sanitize=true)
-
-
