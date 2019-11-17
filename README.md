@@ -15,7 +15,7 @@ then run `composer install` if you wish to install phpunit: "^7.1" or just do `c
 [![Build Status](https://travis-ci.org/madeny/phpboilerplate.svg?branch=master)](https://travis-ci.org/madeny/phpboilerplate) [![CircleCI](https://circleci.com/gh/madeny/phpboilerplate.svg?style=svg)](https://circleci.com/gh/madeny/phpboilerplate)
 
 Travis-ci
-![Alt text](Travis-ci-build-.png)
+![Alt text](Travis-ci-build.png)
 
 Circleci
 ![Alt text](circleci.png)
