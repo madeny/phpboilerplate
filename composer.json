@@ -1,5 +1,5 @@
 {
-    "name": "madeny/PUCPTemplate",
+    "name": "madeny/phpboilerplate",
     "description": "Create simple template for local development and testing",
 
     "autoload": {
